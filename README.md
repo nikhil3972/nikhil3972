@@ -6,6 +6,8 @@
 
 **Technologies** 
 
+<img align="right" alt="GIF" src="output-onlinegiftools.gif" height="500px" />
+
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -19,7 +21,7 @@
 ![Azure](https://img.shields.io/badge/Azure-232F3E?style=flat-square&logo=azure)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<img align="right" alt="GIF" src="animation_300_kxeekbz7.gif" height="350px" />
+
 
 **My GitHub Stats**
 
