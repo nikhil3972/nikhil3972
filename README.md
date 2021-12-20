@@ -6,7 +6,7 @@
 
 **Technologies** 
 
-<img align="right" alt="GIF" src="output-onlinegiftools.gif" height="500px" />
+<img align="right" alt="GIF" src="output-onlinegiftools.gif" height="400px" />
 
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
