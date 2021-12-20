@@ -1,4 +1,4 @@
-### Hello,  I'm Nikhil 
+ 
 <h1 align="center">Hey there 👋, I'm Nikhil</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-NikhilDethe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikhil-dethe-6597161b3/)](https://www.linkedin.com/in/nikhil-dethe-6597161b3/)
