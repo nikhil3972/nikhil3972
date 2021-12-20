@@ -19,6 +19,7 @@
 ![Azure](https://img.shields.io/badge/Azure-232F3E?style=flat-square&logo=azure)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+<img align="right" alt="GIF" src="https://assets1.lottiefiles.com/private_files/lf30_gcroxmlt.json" height="350px" />
 
 **My GitHub Stats**
 
