@@ -1,11 +1,7 @@
-### Hi there 👋
+### Hello,  I'm Nikhil 👋
 
-<!--
-**nikhil3972/nikhil3972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-Hi, I'm Nikhil, a Full Stack Developer 🚀, Cloud Enthusiast🌩️ from India.I love programming & creating webapps
+ a passionate Full Stack Developer 🚀, Cloud Enthusiast🌩️ from India.I love programming & creating webapps.
 
 
 **Technologies** 
